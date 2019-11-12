@@ -1,5 +1,5 @@
 # chinese-idcard-text-renderer
-用于生成中国身份证识别所需文本样本。  
+用于生成Chinese idcard ocr所需文本图像。  
 原作者工程链接:https://github.com/Sanster/text_renderer。  
 基于densenet+ctc进行文本识别，参考https://github.com/YCG09/chinese_ocr  。  
 生成文本图像前，需检查字体是否支持字典中所有字符！身份证证面字体有：华文细黑、方正黑体、黑体、号码特定字体，见。
